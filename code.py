@@ -1,4 +1,4 @@
-# quant_foundations.py
+
 # Built: June 2026
 # Concepts: GBM simulation, log returns, 
 #           volatility, Sharpe ratio
